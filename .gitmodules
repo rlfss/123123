@@ -62,3 +62,8 @@
 	path = OCA/project0
 	url = git@github.com:OCA/project.git
 	branch = 12.0
+
+[submodule "OCA/reporting-engine0"]
+	path = OCA/reporting-engine0
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 12.0
