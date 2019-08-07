@@ -57,3 +57,8 @@
 	path = OCA/product-attribute
 	url = git@github.com:OCA/product-attribute.git
 	branch = 12.0
+
+[submodule "OCA/project0"]
+	path = OCA/project0
+	url = git@github.com:OCA/project.git
+	branch = 12.0
