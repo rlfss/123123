@@ -7,3 +7,8 @@
 	path = Islamtharwat/location
 	url = git@github.com:Islamtharwat/location.git
 	branch = master
+
+[submodule "OCA/website-themes"]
+	path = OCA/website-themes
+	url = git@github.com:OCA/website-themes.git
+	branch = 12.0
