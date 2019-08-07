@@ -2,3 +2,8 @@
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
 	branch = 12.0
+
+[submodule "Islamtharwat/location"]
+	path = Islamtharwat/location
+	url = git@github.com:Islamtharwat/location.git
+	branch = master
