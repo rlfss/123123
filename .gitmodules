@@ -327,3 +327,8 @@
 	path = OCA/connector
 	url = git@github.com:OCA/connector.git
 	branch = 12.0
+
+[submodule "OCA/vertical-association"]
+	path = OCA/vertical-association
+	url = git@github.com:OCA/vertical-association.git
+	branch = 12.0
