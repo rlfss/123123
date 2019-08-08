@@ -142,3 +142,8 @@
 	path = OCA/account-financial-reporting
 	url = git@github.com:OCA/account-financial-reporting.git
 	branch = 12.0
+
+[submodule "OCA/connector-jira"]
+	path = OCA/connector-jira
+	url = git@github.com:OCA/connector-jira.git
+	branch = 12.0
