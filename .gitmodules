@@ -87,3 +87,8 @@
 	path = OCA/currency
 	url = git@github.com:OCA/currency.git
 	branch = 12.0
+
+[submodule "OCA/pos"]
+	path = OCA/pos
+	url = git@github.com:OCA/pos.git
+	branch = 12.0
