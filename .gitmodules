@@ -167,3 +167,8 @@
 	path = OCA/account-payment
 	url = git@github.com:OCA/account-payment.git
 	branch = 12.0
+
+[submodule "OCA/oca-github-bot"]
+	path = OCA/oca-github-bot
+	url = git@github.com:OCA/oca-github-bot.git
+	branch = master
