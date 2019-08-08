@@ -347,3 +347,8 @@
 	path = OCA/vertical-association1
 	url = git@github.com:OCA/vertical-association.git
 	branch = 12.0
+
+[submodule "OCA/survey"]
+	path = OCA/survey
+	url = git@github.com:OCA/survey.git
+	branch = 12.0
