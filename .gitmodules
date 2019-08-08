@@ -312,3 +312,8 @@
 	path = OCA/maintainer-tools
 	url = git@github.com:OCA/maintainer-tools.git
 	branch = master
+
+[submodule "OCA/mis-builder"]
+	path = OCA/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 12.0
