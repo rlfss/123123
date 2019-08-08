@@ -97,3 +97,8 @@
 	path = OCA/helpdesk
 	url = git@github.com:OCA/helpdesk.git
 	branch = 12.0
+
+[submodule "OCA/maintenance"]
+	path = OCA/maintenance
+	url = git@github.com:OCA/maintenance.git
+	branch = 12.0
