@@ -147,3 +147,8 @@
 	path = OCA/connector-jira
 	url = git@github.com:OCA/connector-jira.git
 	branch = 12.0
+
+[submodule "OCA/delivery-carrier"]
+	path = OCA/delivery-carrier
+	url = git@github.com:OCA/delivery-carrier.git
+	branch = 12.0
