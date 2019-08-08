@@ -322,3 +322,8 @@
 	path = OCA/geospatial
 	url = git@github.com:OCA/geospatial.git
 	branch = 12.0
+
+[submodule "OCA/connector"]
+	path = OCA/connector
+	url = git@github.com:OCA/connector.git
+	branch = 12.0
