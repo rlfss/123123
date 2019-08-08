@@ -172,3 +172,8 @@
 	path = OCA/oca-github-bot
 	url = git@github.com:OCA/oca-github-bot.git
 	branch = master
+
+[submodule "OCA/contract"]
+	path = OCA/contract
+	url = git@github.com:OCA/contract.git
+	branch = 12.0
