@@ -197,3 +197,8 @@
 	path = OCA/product-variant0
 	url = git@github.com:OCA/product-variant.git
 	branch = 12.0
+
+[submodule "OCA/project-reporting"]
+	path = OCA/project-reporting
+	url = git@github.com:OCA/project-reporting.git
+	branch = 12.0
